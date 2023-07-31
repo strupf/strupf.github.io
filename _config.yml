@@ -23,8 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/strupf"}
-  - {title: Mastodon, icon: mastodon, url: "@strupf@mastodon.social"}
-  - {title: Twitter, icon: twitter, url: "@thestrupf"}
+  - {title: Mastodon, icon: mastodon, url: "https://mastodon.social/@strupf"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/thestrupf"}
   - {title: Mail, icon: envelope, url: "mailto:the.strupf@proton.me"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
